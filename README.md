@@ -54,11 +54,11 @@ Entra en la carpeta del backend:
 cd gestion_alumnos_api
 
 
-Crea un entorno virtual:
+🔹 Crea un entorno virtual:
 
 python -m venv venv
 
-Activa el entorno virtual:
+🔹 Activa el entorno virtual:
 
 En Windows:
 
@@ -98,7 +98,7 @@ python manage.py runserver
 
 
 
-####################_________________Frontend________________#####################
+##################_________________Frontend________________##################
 
 🔹 1. Configurar el Frontend (React)
 
@@ -137,5 +137,7 @@ Si cambias algo en el frontend, se recarga automáticamente.
 Desarrollado por [Sr_Edarkh] ✨
 
 <img width="1001" height="729" alt="dashboard" src="https://github.com/user-attachments/assets/3fb406b7-1ccf-4dc3-a5a8-3f0f0d26ee32" />
+<img width="1014" height="722" alt="crearusuario" src="https://github.com/user-attachments/assets/1ea4e5a4-7f72-4912-b22e-1d6a3f74a026" />
+
 
 ---
