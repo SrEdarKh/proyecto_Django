@@ -136,5 +136,6 @@ Si cambias algo en el frontend, se recarga automáticamente.
 
 Desarrollado por [Sr_Edarkh] ✨
 
+<img width="1001" height="729" alt="dashboard" src="https://github.com/user-attachments/assets/3fb406b7-1ccf-4dc3-a5a8-3f0f0d26ee32" />
 
 ---
