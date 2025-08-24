@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos y secretos
+.env
+*.env
+gestion_alumnos_api/.env
+gestion_alumnos_frontend/.env
+
+# SO/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
