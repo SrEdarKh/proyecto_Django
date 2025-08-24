@@ -138,10 +138,3 @@ Desarrollado por [Sr_Edarkh] ✨
 
 
 ---
-
-🔥 Con esto ya tienes los 3 archivos claves:  
-- `requirements.txt`  
-- `.gitignore`  
-- `README.md`  
-
-👉 Solo súbelos junto a tu **backend** y **frontend** al repositorio.  
